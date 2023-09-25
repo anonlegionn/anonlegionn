@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonlegionn
-- 👀 seguiridad informatica
-- 🌱 I’m currently learning s.i.e
+- 👀 seguiridad informatica, python, java, kotlin, css y html
+- 🌱 I’m currently learning DAW
 
 <!---
 anonlegionn/anonlegionn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
